@@ -6,6 +6,10 @@ Implements [Algorithm L](https://en.wikipedia.org/wiki/Reservoir_sampling), whic
 
 ## Installation
 
+You can download the latest release for linux/amd64 [here](https://github.com/ahlaw/reservoir/releases).
+
+Alternatively, you can download the package with the go tool.
+
 ```
 $ go get -u github.com/ahlaw/reservoir
 ```
